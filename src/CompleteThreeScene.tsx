@@ -465,7 +465,7 @@ const CompleteThreeScene = () => {
           fontFamily: "monospace",
         }}
       >
-        Three.js Scene Active
+        Made By Byron Serrano
       </div>
     </div>
   );
