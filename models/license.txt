@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wither Boss Gltf
+* source:	https://sketchfab.com/3d-models/wither-boss-gltf-89e6a330d6c443068f3ab6ba3b778a3d
+* author:	zoommr.apple30 (https://sketchfab.com/zoommr.apple30)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wither Boss Gltf" (https://sketchfab.com/3d-models/wither-boss-gltf-89e6a330d6c443068f3ab6ba3b778a3d) by zoommr.apple30 (https://sketchfab.com/zoommr.apple30) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
